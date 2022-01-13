@@ -1,0 +1,7 @@
+#Write a python program to find the volume of sphere for dia of 15cm
+
+dia=15
+rad=7.5
+pi=3.14
+vol=4/3*pi*(rad**3)
+print("The volume of sphere is:",vol)
